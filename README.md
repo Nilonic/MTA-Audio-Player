@@ -1,8 +1,11 @@
 # ![MTA Icon](MTA_Icon.png) MTA Audio Format Player
 
 ## Progress on V1.0.0
-![](https://geps.dev/progress/0)
-
+Main GUI [find here](https://github.com/spyspy69/MTA-Audio-Player/blob/master/src/main.cpp) ![https://geps.dev/progress](https://geps.dev/progress/5?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00)
+<br>
+MTA loader (.MTA1) ![https://geps.dev/progress](https://geps.dev/progress/0?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00)
+<br>
+Main Player [find here](https://github.com/spyspy69/MTA-Audio-Player/blob/master/src/player.cpp) ![https://geps.dev/progress](https://geps.dev/progress/0?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00)
 
 ## What is MTA?
 
