@@ -1,9 +1,10 @@
+![MTA Icon](MTA_Icon.png)
+
 # MTA Audio Format Player
 
 ## Progress on V1.0.0
 ![](https://geps.dev/progress/0)
 
-![MTA_Icon]("MTA_Icon.png")
 
 ## What is MTA?
 
